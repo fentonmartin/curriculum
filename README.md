@@ -1,2 +1,6 @@
-# curriculum
-Public Curriculum for Learning Some Tech Stuffs
+---
+description: Public Curriculum for Learning Some Tech Stuffs
+---
+
+# Learn Some Tech Stuffs
+
