@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Learn Some Tech Stuffs](README.md)
+* [Home](README.md)
 * [Java Fundamental](java.md)
 * [Android Beginner](android-beginner.md)
 * [Android Intermediate](android-intermediate.md)
