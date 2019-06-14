@@ -37,7 +37,7 @@ description: Learn Java Fundamental
 ### **Recommended Course**
 
 {% hint style="info" %}
-\*\*\*\*[**https://www.udemy.com/java-tutorial**](https://www.udemy.com/java-tutorial/) **\(English\)**
+\*\*\*\*[**https://www.udemy.com/java-tutorial**](https://www.udemy.com/share/10005iA0EbcFtXQXQ=/) **\(English\)**
 
 \*\*\*\*[**https://www.dicoding.com/academies/60**](https://www.dicoding.com/academies/60?course_ref=722a45984ad77d3e3927109e) **\(Indonesia\)**
 {% endhint %}
