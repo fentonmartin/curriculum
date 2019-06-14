@@ -8,5 +8,11 @@ description: Public Curriculum for Learning Some Tech Stuffs
 Learn some tech stuffs from the curriculum below.
 {% endhint %}
 
-{% page-ref page="./" %}
+{% page-ref page="java.md" %}
+
+{% page-ref page="android-beginner.md" %}
+
+{% page-ref page="android-intermediate.md" %}
+
+{% page-ref page="android-advance.md" %}
 
